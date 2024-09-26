@@ -54,8 +54,8 @@ Below are the results for each model:
 
 # Model	                    Accuracy	 
 Logistic Regression	         52.5% 	
-Decision Tree Classifier	   75.9% 
+Decision Tree Classifier	   79.9% 
 Random Forest Classifier	   52.5%	  
 
 # Result
-The Decision Tree classifier outperformed the other models with an accuracy of 93.1% and an AUC of 0.91. This suggests that the Decision Tree model was better at distinguishing between legitimate and fraudulent transactions than Logistic Regression and Random Forest. Despite Random Forest's higher precision, Decision Tree had a slightly better balance between precision and recall, leading to the highest F1-score.
+The Decision Tree classifier outperformed the other models with an accuracy of 79.9%. This suggests that the Decision Tree model was better at distinguishing between legitimate and fraudulent transactions than Logistic Regression and Random Forest. Despite Random Forest's higher precision, Decision Tree had a slightly better balance between precision and recall, leading to the highest F1-score.
